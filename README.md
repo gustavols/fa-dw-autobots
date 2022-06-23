@@ -1,4 +1,16 @@
-<h1 align="center"> Hello There! </h1>
+<p align="center"><img src="https://github.com/gustavols/gustavols/blob/main/github-header-image.png" width="900px;"/></p>
+<p align="center"><img src="https://github.com/drisabelles/bertoti/blob/main/IHC/images/fatec-logo.png" width="200px;"/></p>
 
-Atividade desenvolvida em Java para a matéria de Desenvolvimento Web III, do curso de Desenvolvimento de Software Multiplataforma (3º Semestre), da Fatec SJC. <br/>
-Código desenvolvido com o auxílio do professor Gerson, cujo código inicial se encontra nesse link: https://github.com/gerson-pn/atvi-autobots-microservico-spring
+
+
+
+<hr>
+
+## *Creator*
+
+| [<img src="https://avatars.githubusercontent.com/u/55259166?v=4" width="75px;"/>](https://github.com/gustavols) |
+| :------------------------------------------------------------------------------------------------------------------------: |
+
+| [Gustavo Santos](https://github.com/gustavols)
+
+LISTA 1
